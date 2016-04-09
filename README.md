@@ -1,5 +1,5 @@
 #edhDeckSim
-==========
+
 
 ##### This is a mathematical model of drawing seven cards in a game of commander.
 
